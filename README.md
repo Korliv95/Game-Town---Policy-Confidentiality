@@ -64,7 +64,7 @@ This service is intended for people who are not less than the age specified in t
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-08-06
+This policy is effective as of 2020-08-18
 
 **Contact Us**
 
